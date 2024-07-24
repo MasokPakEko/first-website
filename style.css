@@ -25,7 +25,7 @@ body{
     height: 100%;
     top: 0;
     left: 0;
-    background-image: url(IMG/tes.jpg);
+    background-image: url(..IMG/tes.jpg);
     /* How large or small the picture is */
     background-size: cover;
     background-position: center;
