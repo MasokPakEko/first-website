@@ -30,7 +30,7 @@ body{
     background-size: cover;
     background-position: center;
     /* BEHIND */
-    z-index: -2;
+    z-index: -1;
 }
 
 .opening {
